@@ -1,0 +1,14 @@
+#rubrik{
+    background-color: #077a2a;
+    font-size: 5em;
+    font-family: 'Courier New', 'Courier, monospace';
+    border: 5px solid black;
+    border-radius: 5px;
+    text-align: center;
+    margin-left:10%;
+    margin-right: 10%;
+    padding-top: 20px;
+}
+.red-box{
+    border:2px #077a2a solid; 
+}

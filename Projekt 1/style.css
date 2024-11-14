@@ -1,0 +1,13 @@
+body {
+    background-image: url(img/svart\ marmor\ bakgrun.jpg);
+    color: white;
+}
+#rubrik{
+    text-align: center;
+}
+#grid{
+    background-color: darkred;
+}
+#SP{
+    width: 20%;
+}

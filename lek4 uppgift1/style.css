@@ -1,0 +1,27 @@
+.divven{
+    background-color: yellow;
+    color: blue;
+    text-align: center;
+    border: 2.5px solid black;
+    padding: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    background-image: url(img/showcase.jpg);
+}
+.artikel{
+    background-color: lightgray;
+    color: black;
+    text-align: left;
+    margin: 20px;
+}
+h2{
+    color: black;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.sidfot{
+    text-align:  center;
+}

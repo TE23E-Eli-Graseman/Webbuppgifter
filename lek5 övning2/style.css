@@ -1,0 +1,24 @@
+.rubrik{
+    background-color: rgb(83, 148, 252);
+    border: 5px solid black ;
+    border-radius: 5px; 
+    text-align: center; 
+}
+.black-text{
+    color:black; 
+    font-size: 0.8rem; 
+}
+.yellow-box{
+    background-color: #FFD643;
+    border: 3px solid black; 
+    width: 50%; 
+    border: 5px solid #32b06f;
+    border-radius: 5px;
+    flex-direction: column;
+}
+.fleks-box{
+    background-color: black; 
+    display: flex; 
+    flex-direction: column;
+    align-items: flex-end; 
+}   

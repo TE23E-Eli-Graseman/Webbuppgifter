@@ -1,0 +1,28 @@
+
+    .p1 { 
+        font-family: 'Courier New', Courier, monospace;
+    }
+
+    .p2 {
+        
+    }
+
+    #rubrik {
+        font-size: 5em;
+        font-family: 'Courier New', Courier, monospace;
+        background-color: #32a852;
+        border: 5px solid black; 
+        border-radius: 5px;
+        text-align: center;
+        margin-left: 10%;
+        margin-right: 10%;
+        padding-top: 20px;
+    }
+
+    div{
+        border:2px #32a852 solid; 
+        border-radius: 5px;
+        background-color: rgb(213,109, 11);
+        margin-left: 2%;
+        margin-right: 2%;
+    }

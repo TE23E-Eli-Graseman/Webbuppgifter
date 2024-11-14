@@ -1,0 +1,17 @@
+body{
+    background-image: url("img/ek.jpg");
+}
+h1{
+    text-align: center;
+    color: tomato;
+    background-color: lightblue;
+}
+h2{
+    color: lightgreen;
+    background-color: purple;
+}
+
+h3, h4, h5{
+    background-color: purple;
+    color: lightgreen;
+}

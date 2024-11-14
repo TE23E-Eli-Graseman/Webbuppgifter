@@ -1,0 +1,26 @@
+.stor-box{
+    background-color: #fcba03;
+    display: flex;
+    justify-content: space-around
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    gap: 40 px
+}
+.röd-box{
+    font-size: 80px;
+    background-color: #fc0303;
+    min-width: 200px;
+    min-height: 200px;
+}
+.grön-box{
+    font-size: 60px;
+    background-color: #28fc03;
+    min-width: 200px;
+    min-height: 200px;
+}
+.blå-box{
+    font-size: 40px;
+    background-color: #0303fc;
+    min-width: 200px;
+    min-height: 200px;
+}   
