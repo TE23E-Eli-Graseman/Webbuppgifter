@@ -1,13 +1,80 @@
+
 body {
     background-image: url(img/svart\ marmor\ bakgrun.jpg);
     color: white;
+    margin: 0;
+}
+#IngredienserID {
+    font-size: 20px;
+    padding-top: 10px;
+    padding-left: 10px;
 }
 #rubrik{
     text-align: center;
-}
-#grid{
     background-color: darkred;
+    padding-top: -25px;
+    padding: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
-#SP{
-    width: 20%;
+#topstuff{
+    padding: 10px;
+    width: 100%;
+}   
+#page-left1{
+    float: left;
+    width: 50%;
+}
+#page-right1{
+    float: right;
+    width:50%;
+}
+#UP{
+    width: 92%;
+    height: 300px;
+    margin-left: 25px;
+    margin-right: 25px; 
+    margin-top: 25px;
+    border-radius: 10px;
+}
+#Länkarna{
+    background-color: darkred;
+    margin: 25px;
+    margin-bottom: 50px;
+    border-radius: 10px;
+    font-size: 25px;
+    padding: 1px;
+}
+#Länkarna :hover{
+    color: white;
+}
+#Ingredienser{
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 25px;
+    margin-right: 25px;
+    background-color: darkred;  
+    border-radius: 10px;
+
+}
+#Instruktioner{
+    text-align: left;
+    background-color: darkred;
+    margin-left: 25px;
+    margin-right: 25px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    border-radius: 10px;
+}
+#InstruktionerR{
+    font-size: 20px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+#Älgstek{
+    margin-left: 25px;
+    margin-right: 25px;
+    width: 92%;
+    height: 300px;
+    border-radius: 10px;
 }
